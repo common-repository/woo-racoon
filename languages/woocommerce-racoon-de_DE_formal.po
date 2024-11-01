@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Racoon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-30 10:55+0000\n"
+"PO-Revision-Date: 2017-04-30 10:57+0000\n"
+"Last-Translator: Sebastian Lind <mail@sebastian-lind.de>\n"
+"Language-Team: German (Formal)\n"
+"Language: de-DE-formal\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/settings-tab.php:202
+msgid "Advanced configuration for WooCommerce."
+msgstr "Erweiterte Einstellungen für WooCommerce."
+
+#: includes/settings-tab.php:252
+msgid "Configuration for the breadcrumb navigation."
+msgstr "Konfiguration für die Brotkrumen-Navigation."
+
+#: includes/settings-tab.php:298
+msgid "Custom settings for the shop archive page."
+msgstr "Einstellungen für die Shop-Seite."
+
+#: includes/settings-tab.php:339
+msgid "Custom settings for the single product page"
+msgstr "Einstellungen für die Produkt-Einzelseite."
+
+#: includes/settings-tab-sidebar.php:48
+msgid "WooCommerce Racoon advanced settings to configure WooCommerce."
+msgstr ""
+"WooCommerce Racoon erweiterte Einstellungen zur WooCommerce Konfiguration."
+
+#: woocommerce-racoon.php:75
+msgid "WooCommerce Plugin has to be installed first!"
+msgstr "WooCommerce muss zuerst installiert sein!"
+
+#: hooks/breadcrumb.php:48
+msgid "Home"
+msgstr "Start"
+
+#: includes/settings-tab.php:43 includes/settings-tab.php:200
+msgid "Advanced Settings"
+msgstr "Erweiterte Einstellungen"
+
+#: includes/settings-tab.php:113
+msgid "Upload/Add image"
+msgstr "Bild hochladen/hinzufügen"
+
+#: includes/settings-tab.php:114
+msgid "Remove image"
+msgstr "Bild löschen"
+
+#: includes/settings-tab.php:206
+msgid "Placeholder URL"
+msgstr "Platzhalter URL"
+
+#: includes/settings-tab.php:209
+msgid ""
+"Select the placeholder image which will be shown if no product image is "
+"available."
+msgstr ""
+"Wählen Sie das Platzhalter-Bild das angezeigt wird wenn kein Produktbild "
+"verfügbar ist."
+
+#: includes/settings-tab.php:213
+msgid "Password strength"
+msgstr "Passwortstärke"
+
+#: includes/settings-tab.php:216
+msgid "Choose password strength"
+msgstr "Wählen Sie die Passwortstärke"
+
+#: includes/settings-tab.php:217
+msgid "No review"
+msgstr "Keine Überprüfung"
+
+#: includes/settings-tab.php:218
+msgid "Very easy"
+msgstr "Sehr leicht"
+
+#: includes/settings-tab.php:219
+msgid "Easy"
+msgstr "Leicht"
+
+#: includes/settings-tab.php:220
+msgid "Medium"
+msgstr "Mittel"
+
+#: includes/settings-tab.php:221
+msgid "Strong"
+msgstr "Stark"
+
+#: includes/settings-tab.php:222
+msgid "Very strong"
+msgstr "Sehr stark"
+
+#: includes/settings-tab.php:225
+msgid ""
+"Select the password strength that new customers have to match. (No review is "
+"not recommended!)"
+msgstr ""
+"Wählen Sie die Passwortstärke aus die neue Kunden erfüllen müssen. (Keine "
+"Überprüfung wird nicht empfohlen!)"
+
+#: includes/settings-tab.php:229
+msgid "Price suffix selector"
+msgstr "Preis Suffix Auswahl"
+
+#: includes/settings-tab.php:232
+msgid ""
+"Please enter here the part of the text from \"Price Display Suffix\" in the "
+"\"Tax\" tab which should be the link."
+msgstr ""
+"Geben Sie hier den Teil aus \"Price Display Suffix\" aus dem "
+"\"Mehrwertsteuer\" Tab an der als Link ausgegeben werden soll."
+
+#: includes/settings-tab.php:236
+msgid "Price suffix link"
+msgstr "Preis Suffix Link"
+
+#: includes/settings-tab.php:239
+msgid "Select the page you want to link to."
+msgstr "Wählen Sie die Seite aus die verlinkt werden soll."
+
+#: includes/settings-tab.php:250
+msgid "Breadcrumb"
+msgstr "Brotkrumen"
+
+#: includes/settings-tab.php:256
+msgid "Show breadcrumb navigation"
+msgstr "Brotkrumen-Navigation anzeigen"
+
+#: includes/settings-tab.php:260
+msgid "Choose option"
+msgstr "Bitte wählen"
+
+#: includes/settings-tab.php:261
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/settings-tab.php:262
+msgid "No"
+msgstr "Nein"
+
+#: includes/settings-tab.php:264
+msgid "Decide if you want to show the breadcrumb navigation or not."
+msgstr ""
+"Entscheiden Sie ob die Brotkrumen-Navigation angezeigt werden soll oder "
+"nicht."
+
+#: includes/settings-tab.php:268
+msgid "Breadcrumb home text"
+msgstr "Brotkrumen Start-Text"
+
+#: includes/settings-tab.php:271
+msgid ""
+"Please enter here your custom home text. Leave empty for the default "
+"\"Home\"."
+msgstr ""
+"Bitte geben Sie hier den Start-Text ein. Lassen Sie das Feld leer für den "
+"Standard \"Start\"."
+
+#: includes/settings-tab.php:275
+msgid "Breadcrumb home link"
+msgstr "Brotkrumen Start-Link"
+
+#: includes/settings-tab.php:278
+msgid ""
+"Please enter here the absolute URL for the home text. Leave empty for the "
+"default \"Shop\"."
+msgstr ""
+"Bitte geben Sie hier die absolute URL für den Start-Text an. Lassen Sie das "
+"Feld leer für den Standard \"Shop\"."
+
+#: includes/settings-tab.php:282
+msgid "Breadcrumb separator"
+msgstr "Brotkrumen Separator"
+
+#: includes/settings-tab.php:285
+msgid ""
+"Please enter here your custom separator. Leave empty for the default \"/\"."
+msgstr ""
+"Bitte geben Sie hier Ihren eigene Separator an. Lassen Sie das Feld leer für "
+"den Standard \"/\"."
+
+#: includes/settings-tab.php:296
+msgid "Shop Page"
+msgstr "Shop Seite"
+
+#: includes/settings-tab.php:302
+msgid "Products per page"
+msgstr "Produkte pro Seite"
+
+#: includes/settings-tab.php:305
+msgid ""
+"How many products do you want to show per page? Type \"-1\" for no "
+"pagination and all products."
+msgstr ""
+"Wie viele Produkte möchten Sie pro Seiten anzeigen? Tragen Sie \"-1\" für "
+"keine Pagination und alle Produkte ein."
+
+#: includes/settings-tab.php:309
+msgid "Hide result count"
+msgstr "Ergebnisanzeige ausblenden"
+
+#: includes/settings-tab.php:312
+msgid "If you want to hide the result count activate this checkbox."
+msgstr ""
+"Wenn Sie die Ergebnisanzeige ausblenden wollen, aktivieren sie diese "
+"Checkbox."
+
+#: includes/settings-tab.php:316
+msgid "Hide category product count"
+msgstr "Produktzähler ausblenden"
+
+#: includes/settings-tab.php:319
+msgid "If you want to hide the category product count activate this checkbox."
+msgstr ""
+"Wenn Sie den Produktzähler ausblenden wollen, aktivieren sie diese Checkbox."
+
+#: includes/settings-tab.php:323
+msgid "Hide product order dropdown"
+msgstr "Sortierungsauswahl ausblenden"
+
+#: includes/settings-tab.php:326
+msgid "If you want to hide the product order dropdown activate this checkbox."
+msgstr ""
+"Wenn Sie die Sortierungsauswahl ausblenden wollen, aktivieren sie diese "
+"Checkbox."
+
+#: includes/settings-tab.php:337
+msgid "Single product page"
+msgstr "Produkt Einzelseite"
+
+#: includes/settings-tab.php:344
+msgid "Hide single product meta"
+msgstr "Produkt-Metadaten ausblenden"
+
+#: includes/settings-tab.php:347
+msgid ""
+"If you want to hide the product meta data (SKU, category, tags, etc...) "
+"activate this checkbox."
+msgstr ""
+"Wenn Sie die Produkt-Metadaten ausblenden wollen, aktivieren sie diese "
+"Checkbox."
+
+#: includes/settings-tab.php:351
+msgid "Hide tab description"
+msgstr "Tab Beschreibung ausblenden"
+
+#: includes/settings-tab.php:354
+msgid "If you want to hide the tab description activate this checkbox."
+msgstr ""
+"Wenn Sie den Tab Beschreibung ausblenden wollen, aktivieren sie diese "
+"Checkbox."
+
+#: includes/settings-tab.php:358
+msgid "Hide tab reviews"
+msgstr "Tab Bewertungen ausblenden"
+
+#: includes/settings-tab.php:361
+msgid "If you want to hide the tab reviews activate this checkbox."
+msgstr ""
+"Wenn Sie den Tab Bewertungen ausblenden wollen, aktivieren sie diese "
+"Checkbox."
+
+#: includes/settings-tab.php:365
+msgid "Hide tab additional information"
+msgstr "Tab zusätzliche Informationen ausblenden"
+
+#: includes/settings-tab.php:368
+msgid ""
+"If you want to hide the tab additional information activate this checkbox."
+msgstr ""
+"Wenn Sie den Tab zusätzliche Beschreibung ausblenden wollen, aktivieren sie "
+"diese Checkbox."
+
+#. Name of the plugin
+msgid "WooCommerce Racoon"
+msgstr "WooCommerce Racoon"
+
+#. Description of the plugin
+msgid ""
+"The WooCommerce Racoon gives you the possibility to configure WooCommerce "
+"with advanced settings right from the WordPress backend."
+msgstr ""
+"Der WooCommerce Racoon gibt Ihnen die Möglichkeit WooCommerce mit "
+"erweiterten Einstellungen direkt aus dem WordPress Backend heraus zu "
+"konfigurieren."
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/woocommerce-racoon/"
+msgstr "https://wordpress.org/plugins/woocommerce-racoon/"
+
+#. Author of the plugin
+msgid "Sebastian Lind"
+msgstr "Sebastian Lind"
+
+#. Author URI of the plugin
+msgid "http://www.sebastian-lind.de/"
+msgstr "http://www.sebastian-lind.de/"

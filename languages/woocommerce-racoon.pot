@@ -1,0 +1,273 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-30 10:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: woocommerce-racoon.php:75
+msgid "WooCommerce Plugin has to be installed first!"
+msgstr ""
+
+#: hooks/breadcrumb.php:48
+msgid "Home"
+msgstr ""
+
+#: includes/settings-tab.php:43 includes/settings-tab.php:200
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/settings-tab.php:113
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/settings-tab.php:114
+msgid "Remove image"
+msgstr ""
+
+#: includes/settings-tab.php:202
+msgid "Advanced configuration for WooCommerce."
+msgstr ""
+
+#: includes/settings-tab.php:206
+msgid "Placeholder URL"
+msgstr ""
+
+#: includes/settings-tab.php:209
+msgid ""
+"Select the placeholder image which will be shown if no product image is "
+"available."
+msgstr ""
+
+#: includes/settings-tab.php:213
+msgid "Password strength"
+msgstr ""
+
+#: includes/settings-tab.php:216
+msgid "Choose password strength"
+msgstr ""
+
+#: includes/settings-tab.php:217
+msgid "No review"
+msgstr ""
+
+#: includes/settings-tab.php:218
+msgid "Very easy"
+msgstr ""
+
+#: includes/settings-tab.php:219
+msgid "Easy"
+msgstr ""
+
+#: includes/settings-tab.php:220
+msgid "Medium"
+msgstr ""
+
+#: includes/settings-tab.php:221
+msgid "Strong"
+msgstr ""
+
+#: includes/settings-tab.php:222
+msgid "Very strong"
+msgstr ""
+
+#: includes/settings-tab.php:225
+msgid ""
+"Select the password strength that new customers have to match. (No review is "
+"not recommended!)"
+msgstr ""
+
+#: includes/settings-tab.php:229
+msgid "Price suffix selector"
+msgstr ""
+
+#: includes/settings-tab.php:232
+msgid ""
+"Please enter here the part of the text from \"Price Display Suffix\" in the "
+"\"Tax\" tab which should be the link."
+msgstr ""
+
+#: includes/settings-tab.php:236
+msgid "Price suffix link"
+msgstr ""
+
+#: includes/settings-tab.php:239
+msgid "Select the page you want to link to."
+msgstr ""
+
+#: includes/settings-tab.php:250
+msgid "Breadcrumb"
+msgstr ""
+
+#: includes/settings-tab.php:252
+msgid "Configuration for the breadcrumb navigation."
+msgstr ""
+
+#: includes/settings-tab.php:256
+msgid "Show breadcrumb navigation"
+msgstr ""
+
+#: includes/settings-tab.php:260
+msgid "Choose option"
+msgstr ""
+
+#: includes/settings-tab.php:261
+msgid "Yes"
+msgstr ""
+
+#: includes/settings-tab.php:262
+msgid "No"
+msgstr ""
+
+#: includes/settings-tab.php:264
+msgid "Decide if you want to show the breadcrumb navigation or not."
+msgstr ""
+
+#: includes/settings-tab.php:268
+msgid "Breadcrumb home text"
+msgstr ""
+
+#: includes/settings-tab.php:271
+msgid ""
+"Please enter here your custom home text. Leave empty for the default "
+"\"Home\"."
+msgstr ""
+
+#: includes/settings-tab.php:275
+msgid "Breadcrumb home link"
+msgstr ""
+
+#: includes/settings-tab.php:278
+msgid ""
+"Please enter here the absolute URL for the home text. Leave empty for the "
+"default \"Shop\"."
+msgstr ""
+
+#: includes/settings-tab.php:282
+msgid "Breadcrumb separator"
+msgstr ""
+
+#: includes/settings-tab.php:285
+msgid ""
+"Please enter here your custom separator. Leave empty for the default \"/\"."
+msgstr ""
+
+#: includes/settings-tab.php:296
+msgid "Shop Page"
+msgstr ""
+
+#: includes/settings-tab.php:298
+msgid "Custom settings for the shop archive page."
+msgstr ""
+
+#: includes/settings-tab.php:302
+msgid "Products per page"
+msgstr ""
+
+#: includes/settings-tab.php:305
+msgid ""
+"How many products do you want to show per page? Type \"-1\" for no "
+"pagination and all products."
+msgstr ""
+
+#: includes/settings-tab.php:309
+msgid "Hide result count"
+msgstr ""
+
+#: includes/settings-tab.php:312
+msgid "If you want to hide the result count activate this checkbox."
+msgstr ""
+
+#: includes/settings-tab.php:316
+msgid "Hide category product count"
+msgstr ""
+
+#: includes/settings-tab.php:319
+msgid "If you want to hide the category product count activate this checkbox."
+msgstr ""
+
+#: includes/settings-tab.php:323
+msgid "Hide product order dropdown"
+msgstr ""
+
+#: includes/settings-tab.php:326
+msgid "If you want to hide the product order dropdown activate this checkbox."
+msgstr ""
+
+#: includes/settings-tab.php:337
+msgid "Single product page"
+msgstr ""
+
+#: includes/settings-tab.php:339
+msgid "Custom settings for the single product page"
+msgstr ""
+
+#: includes/settings-tab.php:344
+msgid "Hide single product meta"
+msgstr ""
+
+#: includes/settings-tab.php:347
+msgid ""
+"If you want to hide the product meta data (SKU, category, tags, etc...) "
+"activate this checkbox."
+msgstr ""
+
+#: includes/settings-tab.php:351
+msgid "Hide tab description"
+msgstr ""
+
+#: includes/settings-tab.php:354
+msgid "If you want to hide the tab description activate this checkbox."
+msgstr ""
+
+#: includes/settings-tab.php:358
+msgid "Hide tab reviews"
+msgstr ""
+
+#: includes/settings-tab.php:361
+msgid "If you want to hide the tab reviews activate this checkbox."
+msgstr ""
+
+#: includes/settings-tab.php:365
+msgid "Hide tab additional information"
+msgstr ""
+
+#: includes/settings-tab.php:368
+msgid ""
+"If you want to hide the tab additional information activate this checkbox."
+msgstr ""
+
+#: includes/settings-tab-sidebar.php:48
+msgid "WooCommerce Racoon advanced settings to configure WooCommerce."
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Racoon"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The WooCommerce Racoon gives you the possibility to configure WooCommerce "
+"with advanced settings right from the WordPress backend."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/woocommerce-racoon/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sebastian Lind"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.sebastian-lind.de/"
+msgstr ""
